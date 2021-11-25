@@ -13,4 +13,5 @@
 ## UNIT 4
 ## UNIT 5
 1. Primary Arithmetic 
-
+2. Reverse and Add
+3. One's

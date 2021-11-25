@@ -1,7 +1,4 @@
-/*Jolly Jumpers
-Input : 4 1 4 2 3
-5 1 4 2 -1 6
-*/
+
 import java.util.*;
 public class jolly {
 	public static void main(String args[]) {
