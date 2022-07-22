@@ -1,5 +1,4 @@
-# Competitive-programming
-## JNEC 3rd Year
+# JNEC 3rd Year Competitive-programming 
 ## 5th Sem
 ### UNIT 1 Getting Started
 1. 3n+1 Problem 
